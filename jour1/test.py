@@ -1,5 +1,7 @@
 """
 Agressive Hello program :D
 """
-while True :
-    print("HELLOOOO !!! " *10)
+
+print("HELLOOOO !!! ")
+
+print("salut")
